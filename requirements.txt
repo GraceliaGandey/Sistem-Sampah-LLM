@@ -1,0 +1,11 @@
+pandas
+matplotlib
+scikit-learn
+google-play-scraper
+google-genai
+requests
+beautifulsoup4
+Sastrawi
+folium
+plotly
+streamlit

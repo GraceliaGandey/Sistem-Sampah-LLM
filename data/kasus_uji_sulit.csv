@@ -1,0 +1,26 @@
+no,teks,label_harapan,kategori_harapan,jenis,catatan
+1,"Mantap, sudah 3 minggu sampah saya belum dijemput, mungkin nunggu jadi fosil",negatif,pengangkutan_sampah,sarkasme,Kata 'mantap' menyindir penjemputan yang tidak datang
+2,"Terima kasih aplikasinya, setor 10 kilo dapat saldo lima ratus perak, langsung kaya",negatif,harga_insentif,sarkasme,Ucapan terima kasih yang menyindir harga rendah
+3,"Hebat, drop point-nya jauh banget, sekalian olahraga angkat karung",negatif,fasilitas_sampah,sarkasme,Pujian palsu untuk fasilitas yang jauh
+4,"CS-nya super responsif, chat saya dibalas bulan depan",negatif,pelayanan_cs,sarkasme,'Super responsif' bertolak belakang dengan 'bulan depan'
+5,"Bintang 5 biar kalian semangat, padahal kurirnya nggak pernah datang",negatif,pengangkutan_sampah,sarkasme,Rating tinggi tetapi isinya keluhan
+6,"Sampahnya sudah diambil",netral,pengangkutan_sampah,ambigu,Informasi biasa atau ungkapan lega?
+7,"Ya begitulah, namanya juga sampah",negatif,lainnya,ambigu,Nada pasrah; tanpa konteks maknanya tidak jelas
+8,"Harga plastik minggu ini beda dari kemarin",netral,harga_insentif,ambigu,Tidak jelas lebih mahal atau lebih murah
+9,"Cepat banget penuh tempat sampahnya",negatif,kebersihan_lingkungan,ambigu,Kata 'cepat' biasanya positif tetapi di sini keluhan
+10,"Hari ini petugas datang",netral,pengangkutan_sampah,ambigu,Informasi atau ungkapan lega?
+11,"Aplikasinya keren tapi penjemputan sering telat",negatif,pengangkutan_sampah,campuran,Mirip contoh dosen: 'produknya bagus tapi pengiriman lambat'
+12,"Kurirnya ramah, sayang harga per kilonya kecil sekali",negatif,harga_insentif,campuran,Pujian kurir + keluhan harga
+13,"Harganya memang kecil, tapi senang bisa bantu lingkungan",positif,pujian_layanan,campuran,Keluhan kecil tetapi kesimpulan puas
+14,"Kadang error, tapi overall membantu banget buat pilah sampah",positif,aplikasi_teknis,campuran,Kesimpulan akhir condong positif
+15,"Dulu sampah numpuk di depan rumah, sekarang rutin dijemput",positif,pengangkutan_sampah,campuran,Perbandingan waktu (dulu buruk sekarang baik)
+16,"Tidak ribet dan rumah saya tidak bau sampah lagi",positif,kebersihan_lingkungan,negasi,Kata 'ribet' dan 'bau' dinegasikan
+17,"Bukan aplikasinya yang buruk, tapi daerah saya belum dijangkau",negatif,hambatan_partisipasi,negasi,Negasi memindahkan sasaran keluhan
+18,"Belum pernah dikecewakan sejak pakai aplikasi ini",positif,pujian_layanan,negasi,'Belum pernah dikecewakan' = puas
+19,"Sampah so batumpuk, kurir nyanda datang-datang",negatif,pengangkutan_sampah,bahasa_daerah,Dialek Manado (so=sudah; nyanda=tidak)
+20,"Mantap skali, skarang sampah so ada yang jemput",positif,pengangkutan_sampah,bahasa_daerah,Dialek Manado
+21,"Sampahe numpuk terus, ra ono sing njupuk",negatif,pengangkutan_sampah,bahasa_daerah,Bahasa Jawa (sampahnya menumpuk terus; tidak ada yang mengambil)
+22,"Pickup was cancelled three times without any notice",negatif,pengangkutan_sampah,multibahasa,Bahasa Inggris
+23,"Konsepnya great sih, but minimum 5 kg itu too much buat rumah kecil",negatif,hambatan_partisipasi,multibahasa,Campur Indonesia-Inggris
+24,"parah, udh req jemput 2x ga dateng2, gmn sih min",negatif,pengangkutan_sampah,bahasa_gaul,Singkatan & bahasa gaul
+25,"gokil, sampah jd cuan, mantul",positif,pujian_layanan,bahasa_gaul,'Gokil' dan 'mantul' bermakna positif
